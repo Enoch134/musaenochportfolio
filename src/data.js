@@ -3,7 +3,7 @@ export const projects = [
     {
       title: "SMC Complain App",
       description:
-        "This web app is a complain app for the company and it purpose is to rscalate complains from customer and staffs and also gives an update on the complans",
+        "This web app is a complain app for the company and it purpose is to escalate complain from customer and staff and also gives an update on the complain",
     },
     {
       title: "Staff Allocation App",
